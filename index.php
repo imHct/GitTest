@@ -1,2 +1,4 @@
 <?php
-echo '123';
+function getUser(){
+    echo 'userAll';
+}
